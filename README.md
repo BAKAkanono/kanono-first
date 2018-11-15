@@ -1,0 +1,2 @@
+# kanono-first
+Beginner
